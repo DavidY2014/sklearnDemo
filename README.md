@@ -25,7 +25,10 @@ https://www.jianshu.com/p/061c6e5c4b0d   Jupyter Notebook 入门指南
 原文链接：https://blog.csdn.net/c406495762/article/details/77341116
 
 
-
+对于第一项Loss函数，如果是Square loss，那就是最小二乘了；如果是Hinge Loss，那就是著名的SVM了；如果是exp-Loss，那就是牛逼的 Boosting了；如果是log-Loss，那就是Logistic Regression了；还有等等。不同的loss函数，具有不同的拟合特性
+————————————————
+版权声明：本文为CSDN博主「zouxy09」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/zouxy09/article/details/24971995
 
 
 
